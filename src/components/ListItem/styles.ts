@@ -1,5 +1,5 @@
 import { Container } from 'react-dom';
-import styled from 'styled-components';
+import styled from "styled-components"
 
 type ContainerProps = {
   done: boolean
